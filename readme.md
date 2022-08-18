@@ -30,7 +30,7 @@ However, the Elastic Beanstalk + MySQL database was expensive *and* had performa
 
 ### How to obtain the SQLite database:
 
-* You can download the zipped sqlite db from my website at this address
+* You can download the zipped sqlite db from my website at this address http://johncmulligan.net/shakespeare/ariel.tgz
 * Or you can email me for a copy: john.connor.mulligan@gmail.com
 
 ### How to install & run
